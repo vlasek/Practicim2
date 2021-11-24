@@ -1,0 +1,6 @@
+/Users/vladimirkuzmin/Desktop/Ptacticum2/task001/obj/Debug/net6.0/task001.GlobalUsings.g.cs
+/Users/vladimirkuzmin/Desktop/Ptacticum2/task001/obj/Debug/net6.0/task001.csproj.AssemblyReference.cache
+/Users/vladimirkuzmin/Desktop/Ptacticum2/task001/obj/Debug/net6.0/task001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirkuzmin/Desktop/Ptacticum2/task001/obj/Debug/net6.0/task001.AssemblyInfoInputs.cache
+/Users/vladimirkuzmin/Desktop/Ptacticum2/task001/obj/Debug/net6.0/task001.AssemblyInfo.cs
+/Users/vladimirkuzmin/Desktop/Ptacticum2/task001/obj/Debug/net6.0/task001.csproj.CoreCompileInputs.cache
